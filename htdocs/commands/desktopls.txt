@@ -1,0 +1,9 @@
+.
+..
+.DS_Store
+.localized
+FinalExam.pdf
+Tolik_Hordiienko.rtf
+aws
+desktopls.txt
+p
